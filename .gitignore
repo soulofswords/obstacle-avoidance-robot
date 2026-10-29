@@ -1,0 +1,13 @@
+# Local secrets and build artifacts
+.env
+.env.*
+*.log
+.pio/
+build/
+dist/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
